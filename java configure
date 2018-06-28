@@ -1,0 +1,6 @@
+unzip java file at /usr/java
+JAVA_HOME=/usr/java/jdk1.8.0_171-amd64 -->Enter
+export JAVA_HOME
+PATH=$JAVA_HOME/bin:$PATH
+export PATH
+echo $JAVA_HOME
